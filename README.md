@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-to-your-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Close To Your Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-your-heartbeat/) |
+| **Get License** | [Secure Licensing Rights for Close To Your Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-your-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling soft across the wooden floor
+> I am wanting you a million times more.. Million times more..
+> Every single breath you take is calling my name
+> There is nothing but this beautiful, burning flame
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
