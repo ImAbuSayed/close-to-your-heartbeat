@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Close To Your Heartbeat
+
+This log tracks the cryptographic history and versioning for the song **Close To Your Heartbeat** (close-to-your-heartbeat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T00:46:08.946840 | `v1` | `745e4d0264afb149d078ae6935a3ae9feb8a46166802bb4eabd8cf3a648e3007` | `74277b200cd4dc5138ed4138bc40e0a30144dcbbaf2137f83e16cd3cdf1a7aa6` | `2026-06-12_close-to-your-heartbeat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
